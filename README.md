@@ -55,7 +55,7 @@ N'oubliez pas de modifier les parametres du mode entrainement pour faire des ent
 
 Si vous ne souhaitez pas jouer une tortue, vous pouvez changer la tortue en un escargot ou un humain dans le menu Jeu->Préferences->Skin
 
-Si vous souhaitez changé la couleur des voitures, c'est possible dans le menu Jeu->Préferences->Voitures. Actullement, il y a deux couleurs possibles : rouge ou jaune
+Si vous souhaitez changer la couleur des voitures, c'est possible dans le menu Jeu->Préferences->Voitures. Actuellement, il y a deux couleurs possibles : rouge ou jaune
 
 
 ##Commandes
